@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #ffffff; /* Set your desired background color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    max-width: 400px; /* Adjust logo size as desired */
+    width: 80%;
+    height: auto;
+}
